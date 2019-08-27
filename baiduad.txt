@@ -1,0 +1,33 @@
+# 屏蔽百度首页的广告流
+||www.baidu.com##DIV[id="u1"]
+||www.baidu.com##DIV[id="qrcode"]
+||www.baidu.com##DIV[id="con-ar"]
+||www.baidu.com##DIV[id="s_wrap"][class="s-isindex-wrap"]
+||www.baidu.com##DIV[id="u_sp"][class="s-isindex-wrap s-sp-menu"]
+||www.baidu.com##DIV[class="s-weather-wrapper"]
+||www.baidu.com##DIV[id="s_icons"][class="s-icons"]
+||www.baidu.com##DIV[id="s_menu_gurd"][class="s-menu-gurd s-down"]
+||www.baidu.com##DIV[class="ftCon-Wrapper"]
+||www.baidu.com##DIV[id="content_right"][class="cr-offset"]
+# 百度经验
+||jingyan.baidu.com##DIV[class="magzine-list"]
+||jingyan.baidu.com##A[id="w-share"][class="w-share"]
+||jingyan.baidu.com##A[id="w-favor"][class="w-favor "]
+||jingyan.baidu.com##A[id="w-jmags"][class="w-jmags"]
+||jingyan.baidu.com##ASIDE[id="aside"][class="main-aside"]
+# 知乎
+||www.zhihu.com##DIV[class="Card Banner"]
+||www.zhihu.com##DIV[class="AdblockBanner"]
+||www.zhihu.com##DIV[class="Card-section RelatedCommodities-list"]
+||www.zhihu.com##DIV[class="Card-header RelatedCommodities-title"]
+||zhuanlan.zhihu.com##DIV[class="AdblockBanner"]
+# v2ex
+||www.v2ex.com##DIV[id="Rightbar"]
+# solidot
+||www.solidot.org##DIV[id="headads"]
+||www.solidot.org##DIV[class="adv"]
+# CSDN
+||blog.csdn.net##UL[class="recommend-fixed-box"]
+||blog.csdn.net##DIV[class="recommend-box"]
+||blog.csdn.net##DIV[id="asideFooter"]
+||blog.csdn.net##DIV[class="adblock"]
